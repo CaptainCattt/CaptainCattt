@@ -36,9 +36,9 @@
   
 
 
-### 🛠️ Skills
+# 🛠️ Skills
 
-# 📊 Technical Skills
+## 📊 Technical Skills
 
 - Data Analysis & Visualization: Pandas | Numpy | Matplotlib | Seaborn | Power BI | Looker Studio
 
@@ -53,14 +53,14 @@
   
 
 
-# 💻 Programming
+## 💻 Programming
 
 - Python | SQL | R
 
 
   
 
-# 🤝 Collaboration & Project Tools
+## 🤝 Collaboration & Project Tools
 
 - Jira | Confluence | Trello | Notion
 
@@ -69,7 +69,7 @@
   
   
 
-# 📝 Productivity & Others
+## 📝 Productivity & Others
 
 - VS Code | Google Colab | Jupyter Notebook
 
@@ -82,7 +82,7 @@
 
 
 
-# 🌐 Languages
+## 🌐 Languages
 
 - English: Intermediate (TOEIC 550+ & VSTEP B1) 
       
