@@ -1,14 +1,14 @@
 # 👩‍💻 About Me
 
-  💡 Passionate about data analysis & data-driven decisions
+-  💡 Passionate about data analysis & data-driven decisions
 
-  🔍 Skilled in data processing, visualization & reporting
+- 🔍 Skilled in data processing, visualization & reporting
 
-  🤝 Enjoy collaborating with teams & business partners
+- 🤝 Enjoy collaborating with teams & business partners
 
-  📊 Turning raw data into actionable insights
+-  📊 Turning raw data into actionable insights
 
-  🚀 Aspiring to grow as a Data Analyst supporting smarter business strategies
+- 🚀 Aspiring to grow as a Data Analyst supporting smarter business strategies
 
 
 # 💼 What I Do
@@ -28,13 +28,15 @@
 
 📊 Technical Skills
 
-  Data Analysis & Visualization: Pandas, Numpy, Matplotlib, Seaborn, Power BI, Looker Studio
+- Data Analysis & Visualization: Pandas, Numpy, Matplotlib, Seaborn, Power BI, Looker Studio
 
-  Databases & Query: SQL (PostgreSQL, MySQL, Oracle), MongoDB
+- Databases & Query: SQL (PostgreSQL, MySQL, Oracle), MongoDB
 
-  Machine Learning & NLP: Scikit-learn, TensorFlow (basic), Natural Language Processing
+- Machine Learning & NLP: Scikit-learn, TensorFlow (basic), Natural Language Processing
 
-  Workflow & Automation: PySpark, Streamlit, FastAPI
+- Workflow & Automation: PySpark, Streamlit, FastAPI
+
+- Automation & Scraping: Selenium, BeautifulSoup
 
 
 # 💻 Programming
