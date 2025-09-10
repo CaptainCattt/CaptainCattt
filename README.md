@@ -18,7 +18,7 @@
 
 💡 Delivering insights that drive business outcomes
 
-#🛠️ Skills
+# 🛠️ Skills
 
 📊 Technical Skills
 
