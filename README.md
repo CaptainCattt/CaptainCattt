@@ -19,6 +19,8 @@
 - 🚀 Aspiring to grow as a Data Analyst supporting smarter business strategies
 
 
+
+
 # 💼 What I Do
 
 - 🧭 Customer journey analysis & behavior segmentation
@@ -30,6 +32,8 @@
 - 🔄 Automating data workflows & pipelines
 
 - 💡 Delivering insights that drive business outcomes
+
+  
 
 
 # 🛠️ Skills
@@ -46,10 +50,14 @@
 
 - Automation & Scraping: Selenium | BeautifulSoup
 
+  
+
 
 # 💻 Programming
 
-- Python | SQL | R 
+- Python | SQL | R
+
+
   
 
 # 🤝 Collaboration & Project Tools
@@ -57,6 +65,8 @@
 - Jira | Confluence | Trello | Notion
 
 - Miro | Draw.io (diagrams) | Figma (UI/UX ideas)
+
+  
   
 
 # 📝 Productivity & Others
@@ -68,6 +78,8 @@
 - Word | PowerPoint | Google Slides
 
 - Photoshop | Canva
+
+
 
 
 # 🌐 Languages
