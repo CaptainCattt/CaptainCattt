@@ -1,4 +1,4 @@
-# 👩‍💻 About Me
+# 👩‍💻 Hi there 👋, I'm Hoang Luu
 
 - 💡 Passionate about data analysis & data-driven decisions
 
