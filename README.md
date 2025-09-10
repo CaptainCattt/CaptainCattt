@@ -4,9 +4,7 @@
 
 - 📍 Thủ Đức, HCM City
 
-- 🎓 Major: Data Science (GPA: 3.1 / 4.0)
-
-- 🎓 University of Information Technology (VNU-HCM)
+- 🎓 Major: Data Science (GPA: 3.1 / 4.0) at University of Information Technology (VNU-HCM)
 
 - 💡 Passionate about data analysis & data-driven decisions
 
