@@ -36,9 +36,9 @@
   
 
 
-# 🛠️ Skills
+### 🛠️ Skills
 
-📊 Technical Skills
+# 📊 Technical Skills
 
 - Data Analysis & Visualization: Pandas | Numpy | Matplotlib | Seaborn | Power BI | Looker Studio
 
