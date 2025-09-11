@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/AzmSurov/AzmSurov/master/Rainbow.gif" width="1200" />
 </p>
 
-<h1 align="center">👩‍💻 Hi there 👋, I'm Hoang Luu</h1>
+<h1 align="center">👩‍💻 Hi there 👋, I'm Hoang</h1>
 <h3 align="center">Data Analyst | BI Engineer | Data Engineer</h3>
 
 # About me 🔍
