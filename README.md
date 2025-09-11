@@ -1,4 +1,7 @@
-![Rainbow](https://raw.githubusercontent.com/AzmSurov/AzmSurov/master/Rainbow.gif)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AzmSurov/AzmSurov/master/Rainbow.gif" width="600" />
+</p>
+
 
 # 👩‍💻 Hi there 👋, I'm Hoang Luu 
 
