@@ -1,10 +1,19 @@
-# 👩‍💻 Hi there 👋, I'm Hoang Luu
+# 👩‍💻 Hi there 👋, I'm Hoang Luu 
+
+# Data Analyst | BI Engineer | Data Scientist
+
+
+# About me 🔍
 
 - 📧 lqthoanguit2007@gmail.com
 
 - 📍 Thủ Đức, HCM City
 
 - 🎓 Major: Data Science (GPA: 3.1 / 4.0) at University of Information Technology (VNU-HCM)
+
+
+
+# Carrer Goals
 
 - 💡 Passionate about data analysis & data-driven decisions
 
