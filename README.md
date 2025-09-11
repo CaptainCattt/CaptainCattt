@@ -1,3 +1,5 @@
+https://raw.githubusercontent.com/AzmSurov/AzmSurov/master/Rainbow.gif
+
 # 👩‍💻 Hi there 👋, I'm Hoang Luu 
 
 # Data Analyst | BI Engineer | Data Scientist
