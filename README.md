@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">👩‍💻 Hi there 👋, I'm Hoang</h1>
-<h3 align="center">Data Analyst | BI Engineer | Data Engineer</h3>
+<h3 align="center">Data Analyst | Analyst Engineer | Data Engineer</h3>
 
 # About me 🔍
 
