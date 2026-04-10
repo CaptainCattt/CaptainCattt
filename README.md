@@ -51,11 +51,15 @@
 
 - Data Analysis & Visualization: Pandas | Numpy | Matplotlib | Seaborn | Power BI | Looker Studio
 
-- Databases & Query: SQL (PostgreSQL, MySQL, Oracle) | MongoDB | DuckDB
+- Databases & Query: SQL (PostgreSQL, MySQL, Oracle) | MongoDB Atlas | Neon Postgres | DuckDB
+
+- Data Processing & Automation: Data Cleaning | Data Transformation | ETL Pipelines | Automated Reporting
 
 - Machine Learning & Deep Learning: Scikit-learn | TensorFlow | Natural Language Processing
   
 - Workflow & Automation: PySpark | Streamlit | FastAPI | dbt | Google Cloud console
+
+- Analytics: E-commerce & Marketing Analytics | Customer Segmentation | Cohort/Funnel Analysis | A/B Testing
 
 - Scraping: Selenium | BeautifulSoup
 
