@@ -55,11 +55,11 @@
 
 - Data Processing & Automation: Data Cleaning | Data Transformation | ETL Pipelines | Automated Reporting
 
-- Machine Learning & Deep Learning: Scikit-learn | TensorFlow | Natural Language Processing
-  
-- Workflow & Automation: PySpark | Streamlit | FastAPI | dbt | Google Cloud console
+- Cloud & Modern Data Stack: Cloud Databases (Neon PostgreSQL, MongoDB Atlas) | Data Lake / Data Warehouse Storage | Deploying Data Apps (Streamlit)
 
 - Analytics: E-commerce & Marketing Analytics | Customer Segmentation | Cohort/Funnel Analysis | A/B Testing
+
+- Machine Learning & Deep Learning: Scikit-learn | TensorFlow | Natural Language Processing
 
 - Scraping: Selenium | BeautifulSoup
 
