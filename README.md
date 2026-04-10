@@ -55,9 +55,9 @@
 
 - Machine Learning & Deep Learning: Scikit-learn | TensorFlow | Natural Language Processing
   
-- Workflow & Automation: PySpark | Streamlit | FastAPI 
+- Workflow & Automation: PySpark | Streamlit | FastAPI | dbt | Google Cloud console
 
-- Automation & Scraping: Selenium | BeautifulSoup
+- Scraping: Selenium | BeautifulSoup
 
   
 
