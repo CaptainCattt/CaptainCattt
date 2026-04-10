@@ -49,19 +49,19 @@
 
 ## 📊 Technical Skills
 
-- Data Analysis & Visualization: Pandas | Numpy | Matplotlib | Seaborn | Power BI | Looker Studio
+- **Data Analysis & Visualization:** Pandas | Numpy | Matplotlib | Seaborn | Power BI | Looker Studio
 
-- Databases & Query: SQL (PostgreSQL, MySQL, Oracle) | MongoDB Atlas | Neon Postgres | DuckDB
+- **Databases & Query:** SQL (PostgreSQL, MySQL, Oracle) | MongoDB Atlas | Neon Postgres | DuckDB
 
-- Data Processing & Automation: Data Cleaning | Data Transformation | ETL Pipelines | Automated Reporting
+- **Data Processing & Automation:** Data Cleaning | Data Transformation | ETL Pipelines | Automated Reporting
 
-- Cloud & Modern Data Stack: Cloud Databases | Data Lake | Data Warehouse Storage | Deploying Data Apps
+- **Cloud & Modern Data Stack:** Cloud Databases | Data Lake | Data Warehouse Storage | Deploying Data Apps
 
-- Analytics: E-commerce & Marketing Analytics | Customer Segmentation | Cohort/Funnel Analysis | A/B Testing
+- **Analytics:** E-commerce & Marketing Analytics | Customer Segmentation | Cohort/Funnel Analysis | A/B Testing
 
-- Machine Learning & Deep Learning: Scikit-learn | TensorFlow | Natural Language Processing
+- **Machine Learning & Deep Learning:** Scikit-learn | TensorFlow | Natural Language Processing
 
-- Scraping: Selenium | BeautifulSoup
+- **Scraping:** Selenium | BeautifulSoup
 
   
 
