@@ -73,29 +73,29 @@
 
   
 
-## 🤝 Collaboration & Project Tools
+## 🧰 Tools & Platforms
 
-- Jira | Confluence | Trello | Notion
+- Git | VS Code | Jupyter Notebook | Google Colab  
 
-- Miro | Draw.io (diagrams) | Figma (UI/UX ideas)
+- Excel (Pivot Tables, VBA) | Google Sheets
 
+- Jira | Draw.io | Notion  
   
-  
-
-## 📝 Productivity & Others
-
-- VS Code | Google Colab | Jupyter Notebook
-
-- Excel (Pivot, VBA) | Google Sheets
-
-- Word | PowerPoint | Google Slides
-
-- Photoshop | Canva
-
 
 
 
 ## 🌐 Languages
 
-- English: Intermediate (TOEIC 550+ & VSTEP B1) 
+- English: Intermediate (TOEIC 550+ & VSTEP B1)
+
+
+
+
+## 📜 Certificates
+
+- Google Data Analytics Professional Certificate (Coursera) – In progress  
+
+- Power BI Data Analyst (PL-300) – Planned
+
+- HackerRank SQL (Basic) Certificate
       
