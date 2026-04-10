@@ -55,7 +55,7 @@
 
 - Data Processing & Automation: Data Cleaning | Data Transformation | ETL Pipelines | Automated Reporting
 
-- Cloud & Modern Data Stack: Cloud Databases (Neon PostgreSQL, MongoDB Atlas) | Data Lake / Data Warehouse Storage | Deploying Data Apps (Streamlit)
+- Cloud & Modern Data Stack: Cloud Databases | Data Lake | Data Warehouse Storage | Deploying Data Apps
 
 - Analytics: E-commerce & Marketing Analytics | Customer Segmentation | Cohort/Funnel Analysis | A/B Testing
 
